@@ -5,9 +5,13 @@ one-class-per-file limitation, they explain away the structure of a
 file of code.  They might look something like this:
 
 // * Now create the shader program.
+
 (code goes here)
+
 // ** Link our attributes to vertex info. 
+
 (code goes here)
+
 // * Render!
 
 Extract-headers gets their hierarchy and displays it on a buddy
