@@ -1,8 +1,7 @@
 # About this package:
 
-Headers are comments that structure the code - bereft of a
-one-class-per-file limitation, they explain away the structure of a
-file of code.  They might look something like this:
+Headers are comments that structure the code, give it logical flow,
+etc. They might look something like this:
 
 // * Now create the shader program.
 
